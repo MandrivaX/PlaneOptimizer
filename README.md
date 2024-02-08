@@ -1,0 +1,2 @@
+# PassengerManagement
+"For adding, deleting, or modifying the list of passengers, you need to make changes in the file 'PassengerManagement\PassengerManagement.Batch\Passengers\Passengers.txt' file, and it should follow this format: 'ID,Type,Age,Family,Requires2Seats,' for example: '1,Adult,35,A,Non'

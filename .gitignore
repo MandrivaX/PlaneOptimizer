@@ -1,0 +1,35 @@
+﻿# Ignore Visual Studio files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore MonoDevelop/Xamarin Studio files
+*.userprefs
+
+# Ignore Mono auto-generated files
+mono_crash.*
+
+# Ignore Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Ignore folder config files
+Desktop.ini
+
+# Ignore Recycle Bin used on file shares
+$RECYCLE.BIN/
+$Recycle.Bin/
+
+# Ignore Visual Studio project specific files for all projects
+**/*.suo
+**/*.user
+**/*.userosscache
+**/*.sln.docstates
+
+# Ignore bin and obj directories for all projects
+**/bin/
+**/obj/
+**/.vs/
+.vs/*
